@@ -1,0 +1,34 @@
+<!-- Animal Trading Cards By Mohamed Adel (JUBA) -->
+
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Animal Trading Cards</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+      <div class="main-section">
+          <h3>Falcon</h3>
+        <div class="section-top">
+            
+            <img src="falcom.jpg" alt="falcon-pic">
+        </div>
+        <div class="section-bottom">
+<!-- your favorite animal's interesting fact goes here -->
+            <p class="paragraph-top">"The falcon is agile by flying and also a skilled hunter."</p>
+            <ul class="list-info">
+                      <!-- your favorite animal's list items go here -->
+                <li><span>Scientific Name</span>: Falcon</li>
+                <li><span>Kingdom</span>: Animalia</li>
+                <li><span>Phylum</span>: Chordata</li>
+                <li><span>Class</span>: Aves</li>
+                <li><span>Family</span>: Falconidae</li>
+                <li><span>Genus</span>: Falco</li>
+            </ul>
+                  <!-- your favorite animal's description goes here -->
+              <p>The falcon is a bird of prey, which has the ability to catch with great skill.Adult falcons have thin, tapered wings, which enable them to fly at high speed and change direction rapidly. Fledgling falcons, in their first year of flying, have longer flight feathers</p>
+              <p><a class="wiki-link" href="https://en.wikipedia.org/wiki/Falcon">'Source-wikipedia...'</a></p>
+          </div>
+      </div>
+  </body>
+</html>
